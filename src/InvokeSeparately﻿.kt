@@ -1,3 +1,3 @@
-fun main() {
-    println({ text: String -> text.uppercase() }("hello"))
-}
+//fun main() {
+//    println({ text: String -> text.uppercase() }("hello"))
+//}
